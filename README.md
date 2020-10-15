@@ -1,2 +1,6 @@
 # rankings
-sorts people based on ranked preferences
+
+## Usage Example
+``` python
+python rankings.py example.csv 4
+```
